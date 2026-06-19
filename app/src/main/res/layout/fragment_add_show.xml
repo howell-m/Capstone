@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- Input Fields -->
+    <EditText
+        android:id="@+id/etVenue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Venue Name" />
+
+    <EditText
+        android:id="@+id/etCity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="City" />
+
+
+    <EditText
+        android:id="@+id/etDate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusable="false"
+        android:clickable="true"
+        android:hint="Date: MM/DD/YYYY"
+        android:ems="10"
+        android:inputType="date" />
+
+
+    <EditText
+        android:id="@+id/etTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusable="false"
+        android:clickable="true"
+        android:hint="Time: HH:MM"
+        android:ems="10"
+        android:inputType="time" />
+
+    <!-- Add Button -->
+    <Button
+        android:id="@+id/btnAddShow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Save Show" />
+
+
+
+</LinearLayout>

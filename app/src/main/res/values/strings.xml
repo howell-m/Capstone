@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LocalAuthFragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="no_account_sign_up">No account? Sign up</string>
+    <string name="home">Home</string>
+    <string name="logout">Logout</string>
+    <string name="open">Open Drawer</string>
+    <string name="close">Close Drawer</string>
+    <string name="shows">Shows</string>
+    <string name="lodging">Lodging</string>
+    <string name="expenses">Expenses</string>
+    <string name="hello_blank_fragment">hello_blank_fragment</string>
+    <string name="venue_name">Venue Name</string>
+    <string name="new_york_ny">New York, NY</string>
+    <string name="athens_ga">Athens, GA</string>
+    <string name="_40_watt">40 Watt</string>
+
+
+</resources>
