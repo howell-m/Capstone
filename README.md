@@ -176,21 +176,31 @@ Allows users to:
 ---
 ## Screenshots
 
+## Screenshots
+
 ### Home Screen
 
-![Home Screen]("screenshots\App_Home.png")
+<p align="center">
+  <img src="screenshots/App_Home.png" width="250" alt="Home Screen">
+</p>
 
 ### Show Details
 
-![Show Details]("screenshots\Show_Details.png")
-
-### Expense Tracking
-
-![Expenses]("screenshots\Expenses.png")
+<p align="center">
+  <img src="screenshots/Show_Details.png" width="250" alt="Show Details">
+</p>
 
 ### Add Show
 
-![Add Show]("screenshots\AddShow.png")
+<p align="center">
+  <img src="screenshots/AddShow.png" width="250" alt="Add Show">
+</p>
+
+### Expense Tracking
+
+<p align="center">
+  <img src="screenshots/Expenses.png" width="250" alt="Expense Tracking">
+</p>
 
 ---
 
