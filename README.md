@@ -182,15 +182,15 @@ Allows users to:
 
 ### Show Details
 
-![Show Details]("C:\Users\madel\AndroidStudioProjects\ShowPilot\Screenshots\Show_Details.png")
+![Show Details]("Screenshots\Show_Details.png")
 
 ### Expense Tracking
 
-![Expenses]("C:\Users\madel\AndroidStudioProjects\ShowPilot\Screenshots\AddExpenses.png")
+![Expenses]("Screenshots\Expenses.png")
 
 ### Add Show
 
-![Add Show]("C:\Users\madel\AndroidStudioProjects\ShowPilot\Screenshots\AddShow.png")
+![Add Show]("Screenshots\AddShow.png")
 
 ---
 
