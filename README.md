@@ -178,19 +178,19 @@ Allows users to:
 
 ### Home Screen
 
-![Home Screen]("Screenshots\App_Home.png")
+![Home Screen]("screenshots\App_Home.png")
 
 ### Show Details
 
-![Show Details]("Screenshots\Show_Details.png")
+![Show Details]("screenshots\Show_Details.png")
 
 ### Expense Tracking
 
-![Expenses]("Screenshots\Expenses.png")
+![Expenses]("screenshots\Expenses.png")
 
 ### Add Show
 
-![Add Show]("Screenshots\AddShow.png")
+![Add Show]("screenshots\AddShow.png")
 
 ---
 
